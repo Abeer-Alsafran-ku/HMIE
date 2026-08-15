@@ -1,0 +1,172 @@
+[
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00655.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00654.JPG",
+    "hamming_distance": 14
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00656.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00655.JPG",
+    "hamming_distance": 14
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00657.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00653.JPG",
+    "hamming_distance": 27
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00658.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00653.JPG",
+    "hamming_distance": 21
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00659.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00658.JPG",
+    "hamming_distance": 19
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00660.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00659.JPG",
+    "hamming_distance": 23
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00661.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00660.JPG",
+    "hamming_distance": 22
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00662.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00661.JPG",
+    "hamming_distance": 22
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00663.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00662.JPG",
+    "hamming_distance": 21
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00664.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00663.JPG",
+    "hamming_distance": 12
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00665.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00664.JPG",
+    "hamming_distance": 24
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00666.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00658.JPG",
+    "hamming_distance": 19
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00667.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00666.JPG",
+    "hamming_distance": 25
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00668.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00667.JPG",
+    "hamming_distance": 19
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00669.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00662.JPG",
+    "hamming_distance": 26
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00670.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00669.JPG",
+    "hamming_distance": 15
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00671.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00670.JPG",
+    "hamming_distance": 23
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00672.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00671.JPG",
+    "hamming_distance": 23
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00673.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00657.JPG",
+    "hamming_distance": 23
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00674.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00673.JPG",
+    "hamming_distance": 24
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00675.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00674.JPG",
+    "hamming_distance": 15
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00676.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00675.JPG",
+    "hamming_distance": 16
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00677.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00676.JPG",
+    "hamming_distance": 17
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00678.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00677.JPG",
+    "hamming_distance": 22
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00679.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00678.JPG",
+    "hamming_distance": 18
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00849.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00671.JPG",
+    "hamming_distance": 22
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00850.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00849.JPG",
+    "hamming_distance": 18
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00851.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00850.JPG",
+    "hamming_distance": 18
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00852.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00851.JPG",
+    "hamming_distance": 11
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00853.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00852.JPG",
+    "hamming_distance": 11
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00854.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00853.JPG",
+    "hamming_distance": 16
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00855.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00666.JPG",
+    "hamming_distance": 18
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00856.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00855.JPG",
+    "hamming_distance": 21
+  },
+  {
+    "image": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00857.JPG",
+    "matched_with": "/Users/abeer/Library/CloudStorage/GoogleDrive-3beeral9afran@gmail.com/My Drive/sample_6RR/images/20221016_436_Flight_01_00667.JPG",
+    "hamming_distance": 24
+  }
+]
